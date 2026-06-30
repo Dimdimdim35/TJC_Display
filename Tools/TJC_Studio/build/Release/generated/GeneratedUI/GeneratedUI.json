@@ -1,0 +1,21 @@
+{
+  "generator": "TJC_Studio v2.0.0",
+  "pages": [
+    {
+      "hmiName": "page0", "cppName": "page0", "id": 0,
+      "components": [
+        { "hmiName": "tTitle", "cppName": "title", "type": "Text", "id": 1 },
+        { "hmiName": "nValue", "cppName": "value", "type": "Number", "id": 2 },
+        { "hmiName": "jProgress", "cppName": "progress", "type": "ProgressBar", "id": 3 },
+        { "hmiName": "bStart", "cppName": "start", "type": "Button", "id": 4 },
+        { "hmiName": "hSlider", "cppName": "slider", "type": "Slider", "id": 5 },
+        { "hmiName": "bt0", "cppName": "bt0", "type": "DualButton", "id": 6 }
+      ]
+    },
+    {
+      "hmiName": "page1", "cppName": "page1", "id": 0,
+      "components": [
+      ]
+    }
+  ]
+}

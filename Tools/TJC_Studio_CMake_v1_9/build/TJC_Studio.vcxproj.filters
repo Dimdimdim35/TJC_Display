@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\haude\OneDrive\Documents\Arduino\libraries\TJC_Display\Tools\TJC_Studio_CMake_v1_9\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\haude\OneDrive\Documents\Arduino\libraries\TJC_Display\Tools\TJC_Studio_CMake_v1_9\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{63D08E99-8233-34A0-8C9A-3AAFFC9D8C61}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

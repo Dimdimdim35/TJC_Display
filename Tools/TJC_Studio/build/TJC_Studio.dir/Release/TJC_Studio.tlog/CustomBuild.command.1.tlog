@@ -1,0 +1,10 @@
+^C:\USERS\HAUDE\ONEDRIVE\DOCUMENTS\ARDUINO\LIBRARIES\TJC_DISPLAY\TOOLS\TJC_STUDIO\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/haude/OneDrive/Documents/Arduino/libraries/TJC_Display/Tools/TJC_Studio -BC:/Users/haude/OneDrive/Documents/Arduino/libraries/TJC_Display/Tools/TJC_Studio/build --check-stamp-file C:/Users/haude/OneDrive/Documents/Arduino/libraries/TJC_Display/Tools/TJC_Studio/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

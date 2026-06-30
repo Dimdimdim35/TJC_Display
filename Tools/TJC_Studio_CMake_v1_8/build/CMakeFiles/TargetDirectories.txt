@@ -1,0 +1,3 @@
+C:/Users/haude/OneDrive/Documents/Arduino/libraries/TJC_Display/Tools/TJC_Studio_CMake_v1_8/build/CMakeFiles/TJC_Studio.dir
+C:/Users/haude/OneDrive/Documents/Arduino/libraries/TJC_Display/Tools/TJC_Studio_CMake_v1_8/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/haude/OneDrive/Documents/Arduino/libraries/TJC_Display/Tools/TJC_Studio_CMake_v1_8/build/CMakeFiles/ZERO_CHECK.dir

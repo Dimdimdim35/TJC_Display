@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\haude\OneDrive\Documents\Arduino\libraries\TJC_Display\Tools\TJC_Studio_CMake_v1_11\build\CMakeFiles\5b03c99b23d18cdc9b9969be149a1cc7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{14C2B904-7DB6-38D2-8E3D-91AB51DF8D13}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+# Changelog
+
+## v1.1.0
+
+### Ajouté
+- Lecture texte via `lcd.text("t0").get(buffer, size)`
+- Lecture nombre via `lcd.number("n0").get(value)`
+- Lecture slider via `lcd.slider("h0").get(value)`
+- Lecture progress bar via `lcd.progress("j0").get(value)`
+- Lecture bouton via `lcd.button("b0").get(value)`
+
+### Validé sur matériel
+- Arduino Mega 2560
+- TJC4832T035_011
+- Communication UART 115200 bauds
+- Événements TouchPress / TouchRelease
+- Trames `0x65`, `0x70`, `0x71`
